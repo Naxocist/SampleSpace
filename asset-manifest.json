@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SampleSpace/static/css/main.3564cbd4.chunk.css",
-    "main.js": "/SampleSpace/static/js/main.bad99ad9.chunk.js",
-    "main.js.map": "/SampleSpace/static/js/main.bad99ad9.chunk.js.map",
+    "main.css": "/SampleSpace/static/css/main.321aee3a.chunk.css",
+    "main.js": "/SampleSpace/static/js/main.aca5acb9.chunk.js",
+    "main.js.map": "/SampleSpace/static/js/main.aca5acb9.chunk.js.map",
     "runtime-main.js": "/SampleSpace/static/js/runtime-main.1d11c572.js",
     "runtime-main.js.map": "/SampleSpace/static/js/runtime-main.1d11c572.js.map",
     "static/js/2.6906b62d.chunk.js": "/SampleSpace/static/js/2.6906b62d.chunk.js",
     "static/js/2.6906b62d.chunk.js.map": "/SampleSpace/static/js/2.6906b62d.chunk.js.map",
     "index.html": "/SampleSpace/index.html",
-    "static/css/main.3564cbd4.chunk.css.map": "/SampleSpace/static/css/main.3564cbd4.chunk.css.map",
+    "static/css/main.321aee3a.chunk.css.map": "/SampleSpace/static/css/main.321aee3a.chunk.css.map",
     "static/js/2.6906b62d.chunk.js.LICENSE.txt": "/SampleSpace/static/js/2.6906b62d.chunk.js.LICENSE.txt",
     "static/media/nav.css": "/SampleSpace/static/media/witch_magic.7e8b97b8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d11c572.js",
     "static/js/2.6906b62d.chunk.js",
-    "static/css/main.3564cbd4.chunk.css",
-    "static/js/main.bad99ad9.chunk.js"
+    "static/css/main.321aee3a.chunk.css",
+    "static/js/main.aca5acb9.chunk.js"
   ]
 }
