@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/SampleSpace/static/css/main.6cf22811.chunk.css",
-    "main.js": "/SampleSpace/static/js/main.68ac19a5.chunk.js",
-    "main.js.map": "/SampleSpace/static/js/main.68ac19a5.chunk.js.map",
+    "main.css": "/SampleSpace/static/css/main.96bea8bb.chunk.css",
+    "main.js": "/SampleSpace/static/js/main.da38fbfd.chunk.js",
+    "main.js.map": "/SampleSpace/static/js/main.da38fbfd.chunk.js.map",
     "runtime-main.js": "/SampleSpace/static/js/runtime-main.1d11c572.js",
     "runtime-main.js.map": "/SampleSpace/static/js/runtime-main.1d11c572.js.map",
     "static/js/2.7391658a.chunk.js": "/SampleSpace/static/js/2.7391658a.chunk.js",
     "static/js/2.7391658a.chunk.js.map": "/SampleSpace/static/js/2.7391658a.chunk.js.map",
     "index.html": "/SampleSpace/index.html",
-    "static/css/main.6cf22811.chunk.css.map": "/SampleSpace/static/css/main.6cf22811.chunk.css.map",
+    "static/css/main.96bea8bb.chunk.css.map": "/SampleSpace/static/css/main.96bea8bb.chunk.css.map",
     "static/js/2.7391658a.chunk.js.LICENSE.txt": "/SampleSpace/static/js/2.7391658a.chunk.js.LICENSE.txt",
+    "static/media/waitress.f6ed04de.jpg": "/SampleSpace/static/media/waitress.f6ed04de.jpg",
     "static/media/nav.css": "/SampleSpace/static/media/witch_magic.7e8b97b8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d11c572.js",
     "static/js/2.7391658a.chunk.js",
-    "static/css/main.6cf22811.chunk.css",
-    "static/js/main.68ac19a5.chunk.js"
+    "static/css/main.96bea8bb.chunk.css",
+    "static/js/main.da38fbfd.chunk.js"
   ]
 }
